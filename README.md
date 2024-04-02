@@ -15,7 +15,7 @@
   <ul>
       <li>Cadastro, leitura, atualização e exclusão de funcionários, gerentes e departamentos</li>
       <li>Atribuição de funcionários a departamentos</li>
-      <li>Promoção de funcionários a gerentes</li>
+      <li>Buscar Funcionários por ID ou Nome</li>
       <li>Transferência de funcionários entre departamentos</li>
       <li>Validações para garantir integridade dos dados</li>
   </ul>
