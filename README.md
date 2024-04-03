@@ -25,6 +25,13 @@
       <li>JAVA</li>
       <li>Spring</li>
   </ul>
+
+  <h2>Equipe</h2>
+  <ul>
+      <li>Vitor Hugo Oliveira Paloco</li>
+      <li>Pedro Henrique Ramoni Ouro</li>
+      <li>Guivabba Bezerra Vitoriano</li>
+  </ul>
   
   <h2>Contato</h2>
   <p>Se você tiver alguma dúvida, sugestão ou quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em <a href="mailto:vitor.paloco@edu.unifil.com">vitor.paloco@edu.unifil.com</a> ou me encontrar em <a href="https://www.linkedin.com/in/vitor-hugo-oliveira-paloco-b64126278/">LinkedIn</a>.</p>
